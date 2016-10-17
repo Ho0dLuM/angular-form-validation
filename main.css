@@ -1,0 +1,33 @@
+body {
+  background-color: yellow;
+  font-size: 2em;
+}
+
+input {
+  font-size: 1em;
+}
+
+.container {
+  margin-left: 20%;
+}
+
+.boring-header {
+  text-align: center;
+}
+
+.form-stuff {
+  width: 40%;
+  height: 40px;
+  border: 2px solid blue;
+  border-radius: 25px;
+  margin: 2%;
+}
+
+.submit-button {
+  width: 10%;
+  height: 40px;
+  border-radius: 25px;
+  background-color: green;
+  color: white;
+  font-size: .5em;
+}
